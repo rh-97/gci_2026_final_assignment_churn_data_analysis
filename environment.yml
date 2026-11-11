@@ -1,0 +1,13 @@
+name: gci-eda
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas>=2.2
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyterlab
+  - ipykernel
+  - nbconvert
